@@ -1,8 +1,8 @@
 
-ECE 4750 Tutorial 2: Git Distributed Version Control System
+ECE 5745 Tutorial 2: Git Distributed Version Control System
 ==========================================================================
 
-This repository contains source code for ECE 4750 Tutorial 2 on the Git
+This repository contains source code for ECE 5745 Tutorial 2 on the Git
 distributed version control system. The detailed tutorial document can be
 found here:
 
